@@ -22,7 +22,7 @@ h1 {
 	margin:0;
 	padding-left:10%;
     line-height: 200px;
-    margin-left: 10%;
+    margin-left: 15%;
 	float:right;
 }
 
@@ -113,6 +113,7 @@ td a {
 	margin: 1% 3% 1% 1%;
 	border-radius: 10px;
 	padding: 1% 2%;
+	margin-right: 10%;
 	background-color: green;
 	margin-top:100px;
 }
